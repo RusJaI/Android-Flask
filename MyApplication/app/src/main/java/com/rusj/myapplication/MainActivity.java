@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button_send_post;
     private Button button_send_get;
     private TextView textView_response;
-    private String url="http://192.168.1.3:5000";// put your URL here
+    private String url=""// *****put your URL here*********
     private String POST="POST";
     private String GET="GET";
 
